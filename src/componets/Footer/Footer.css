@@ -1,0 +1,7 @@
+.liFooter{
+    list-style-type: none;
+    color: lightgray;
+}
+.liFooter:hover{
+    color:white
+}
